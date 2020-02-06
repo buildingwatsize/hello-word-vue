@@ -1,5 +1,13 @@
 # hello-world
 
+## Setup Step
+
+```bash
+vue create hello-world
+cd hello-world/
+yarn serve
+```
+
 ## Project setup
 ```
 yarn install
